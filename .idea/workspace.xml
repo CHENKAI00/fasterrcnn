@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de31068d-acce-4a6d-929e-ce01f35f3b24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/model_data/voc_weights_resnet.pth" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="0aa88e2a-5b3c-48aa-bbfd-61fb523c40e7" />
+  <component name="ProjectId" id="2BTYPdwN6QnJ8GQBmrbMl5vA0F7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de31068d-acce-4a6d-929e-ce01f35f3b24" name="Default Changelist" comment="" />
+      <created>1656931518591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656931518591</updated>
+      <workItem from="1656931519629" duration="529000" />
+      <workItem from="1656932065931" duration="172000" />
+      <workItem from="1656932253927" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656931582754">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1656931582754" />
+    <state x="93" y="93" width="1350" height="630" key="DiffContextDialog" timestamp="1656932241447">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1656932241447" />
+    <state x="549" y="149" key="FileChooserDialogImpl" timestamp="1656932274332">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="149" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1656932274332" />
+    <state x="638" y="306" key="Github.ShareDialog" timestamp="1656932086793">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="638" y="306" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1656932086793" />
+    <state x="569" y="113" key="Github.UntrackedFilesDialog" timestamp="1656931635504">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="569" y="113" key="Github.UntrackedFilesDialog/0.0.1536.816@0.0.1536.816" timestamp="1656931635504" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1656932157730">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1656932157730" />
+    <state x="573" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1656932132064">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="573" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1656932132064" />
+    <state x="570" y="315" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1656931843260">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="570" y="315" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.816@0.0.1536.816" timestamp="1656931843260" />
+  </component>
+</project>
